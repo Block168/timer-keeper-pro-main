@@ -1,5 +1,5 @@
 const API_BASE_URL = process.env.NODE_ENV === 'production' 
-  ? 'https://your-app.vercel.app/api' 
+  ? 'https://time-keeper-pro-tau.vercel.app/api' 
   : '/api'
 
 export interface Employee {

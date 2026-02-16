@@ -123,8 +123,8 @@ const Index = () => {
       <header className="border-b border-border px-6 py-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <img 
-            src="/logo.svg" 
-            alt="PointGuard Logo" 
+            src="/espro-logo.svg" 
+            alt="ESPRO Junior Entreprise Logo" 
             className="w-10 h-10 object-contain"
           />
           <div>
